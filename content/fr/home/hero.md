@@ -7,24 +7,14 @@ weight = 10
 # hidden = true
 
 # Hero image (optional). Enter filename of an image in the `static/` folder.
-hero_media = "/img/portrait.jpg"
+hero_media = "/img/logo.png"
+
 
 # Buttons
 # Add as much button as you want
-[[btn]]
-	# The url of the button
-  url = "/about"
-	# The text of the button
-  label = "En savoir plus"
-	# Primary color
-	primary = true
-
-[[btn]]
-  url = "#contact"
-  label = 'Me contacter'
 
 +++
 
-# Un thème pour **exprimer** vos idées.
+# Fractions Island
 
-Pico est un thème qui se veut minimaliste, responsive, clair et léger.
+Fraction Island est une initiative portée par Lidija Mladenovic, doctorante serbe travaillant sur le trouble de la dyscalculie. Nous avons eu la chance de pouvoir l'accompagner dans son projet.
